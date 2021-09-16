@@ -1,6 +1,6 @@
 # Chapter 05_05
 
-- Create a repository on GitHub using the [New Repository](https://github.com/new) page.  Name it something that relates to the lesson like `exercise-files`.
+- Create a repository on GitHub using the [New Repository](https://github.com/new) page. Name it something that relates to the lesson like `exercise-files`.
 
 - In a terminal, run the following commands to initialize the directory as a git repository.
 
@@ -16,6 +16,6 @@
 
         git push -u origin master
 
- - Browse to the repository on GitHub.com and reload the page to confirm the files have been properly pushed.
+- Browse to the repository on GitHub.com and reload the page to confirm the files have been properly pushed.
 
 Once the files are hosted on GitHub.com, you're ready to start making changes locally and pushing them to the remote repo.
